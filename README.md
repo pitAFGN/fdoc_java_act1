@@ -1,4 +1,8 @@
 # Actividad 1: Ejercicios prácticos de Java
+//////
+# Estudiante: Andres Felipe Gonzalez Noreña
+Ficha: 3144585
+//////
 
 Nota de implementación: realice cada ejercicio exclusivamente en el método main de una clase Java dentro de un proyecto de consola.
 
